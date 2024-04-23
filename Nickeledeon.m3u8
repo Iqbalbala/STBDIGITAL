@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://mykingtv.net:2082/live/aliffi88/26383737/5281.m3u8
+http://202.150.161.254:4000/play/a00a/index.m3u8
